@@ -1,3 +1,10 @@
+ Team members
+ Shakira Munganyinka
+ Sandrine Dushimimana
+ Umurerwa Mbera Nicole
+ 
+ ---
+ 
  GPA Calculator
 
 A simple GPA Calculator web app that allows users to:
