@@ -8,6 +8,7 @@ A simple GPA Calculator web app that allows users to:
 
  Live Demo
 
+ https://smunganyinka.github.io/GPA-Calculator/
 
 ---
 
