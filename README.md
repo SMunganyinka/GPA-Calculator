@@ -1,7 +1,7 @@
  Team members
- Shakira Munganyinka
- Sandrine Dushimimana
- Umurerwa Mbera Nicole
+ - Shakira Munganyinka
+ - Sandrine Dushimimana
+ - Umurerwa Mbera Nicole
  
  ---
  
